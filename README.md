@@ -22,7 +22,7 @@ This project was created as part of the **Dots Frontend Developer Assignment**.
 ---
 
 ## 🚀 Demo
-🔗 [Live Demo on Netlify](https://your-netlify-link.netlify.app)
+🔗 [Live Demo on Netlify]((https://rajat-search-ui.netlify.app/))
 
 ---
 
